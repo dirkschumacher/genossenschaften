@@ -1,4 +1,4 @@
-# List of German Wohnungsbaugenossenschaften (Housing cooperative)
+# List of German Wohnungsbaugenossenschaften (Housing cooperatives)
 Housing cooperatives are a great way to make living in cities affordable. 
 The list is work in progress. Feel free to add more Genossenschaften.
 
