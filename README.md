@@ -1,5 +1,5 @@
-# genossenschaften
-List of German Wohnungsbaugenossenschaften (Housing cooperative). Housing cooperatives are a great way make living in cities affordable. 
+# List of German Wohnungsbaugenossenschaften (Housing cooperative)
+Housing cooperatives are a great way make living in cities affordable. 
 
 
 ## Berlin
