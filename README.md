@@ -7,6 +7,8 @@ The list is work in progress. Feel free to add more Genossenschaften.
 * [bbg BERLINER BAUGENOSSENSCHAFT eG](http://bbg-eg.de/)
 * [Beamten-Wohnungs-Verein zu Berlin eG](https://www.bwv-berlin.de/)
 * [Beamten-Wohnungs-Verein zu Köpenick eG](https://www.bwv-zk.de/)
+* [Berliner Bau- und Wohnungsgenossenschaft von 1892 eG](https://1892.de/)
+* [Wohnungsbaugenossenschaft „Berolina“ eG](https://berolina.info)
 
 # License
 
